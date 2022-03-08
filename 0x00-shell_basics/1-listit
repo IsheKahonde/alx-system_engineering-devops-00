@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $LS
+find . -type f -follow -print
