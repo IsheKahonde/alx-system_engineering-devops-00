@@ -1,1 +1,0 @@
-This script changes user to betty
